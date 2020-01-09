@@ -30,3 +30,9 @@ pip install face_recognition
 
 pip install cmake
 
+windonw 
+
+conda install dlib
+
+pip install --no-dependencies face_recognition
+
