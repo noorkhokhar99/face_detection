@@ -24,3 +24,5 @@ Step 2: Install Python libraries
 sudo apt-get install python-dev python-pip python3-dev python3-pip3
 
 sudo pip install setuptools
+
+pip install cmake
