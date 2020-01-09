@@ -1,15 +1,4 @@
 # face_detection
-The world's simplest facial recognition api for Python and the command line.
-
-First you download python Than you install opencv
-
-How to install opencv?
-
-pip install opencv-python
-
-how to install face_recognition?
-
-pip install face_recognition
 
 step 1 : os liberies
 
@@ -25,4 +14,18 @@ sudo apt-get install python-dev python-pip python3-dev python3-pip3
 
 sudo pip install setuptools
 
+
+The world's simplest facial recognition api for Python and the command line.
+
+First you download python Than you install opencv
+
+How to install opencv?
+
+pip install opencv-python
+
+how to install face_recognition?
+
+pip install face_recognition
+
 pip install cmake
+
