@@ -38,3 +38,5 @@ pip install --no-dependencies face_recognition
 
 pip install scikit-image
 
+
+conda install Scipy = 1.1.0
