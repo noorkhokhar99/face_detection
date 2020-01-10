@@ -35,5 +35,6 @@ windonw
 conda install dlib
 
 pip install --no-dependencies face_recognition
+
 pip install scikit-image
 
