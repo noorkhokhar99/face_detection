@@ -40,3 +40,5 @@ pip install scikit-image
 
 
 conda install Scipy = 1.1.0
+
+pip install opencv-contrib-python
